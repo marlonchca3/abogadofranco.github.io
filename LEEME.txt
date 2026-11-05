@@ -1,0 +1,10 @@
+ESTUDIO DE ABOGADOS DR. FRANCO LOPEZ
+
+1. Abre index.html con Chrome para visualizar la página.
+2. Abre esta carpeta con Visual Studio Code para editarla.
+3. El WhatsApp +51 994 106 591 está configurado y funciona desde los botones.
+4. Para conectar las redes sociales, abre script.js y reemplaza las cadenas vacías del objeto redes con las URL oficiales.
+5. Confirma las especialidades ofrecidas antes de publicar la web.
+6. Para publicar, sube los tres archivos index.html, styles.css y script.js al hosting.
+
+NOTA: La imagen de portada se carga desde Unsplash y necesita conexión a Internet.
